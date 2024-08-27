@@ -1,7 +1,3 @@
-# SpaceGame
-https://github.com/jkwu1663/SpaceGame/releases
-
-
 # Space Game
 
 **Space Game** is a top-down 2D puzzle game centered around environmental interaction. This project was built by teaming up with a group of peers to bring this game to life, combining our different skills to create something we're proud of.
